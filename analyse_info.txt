@@ -1,0 +1,5 @@
+Artefact    : targets.txt (domaines autorisés)
+Provenance  : Fourni par l'enseignant / projet de cours
+Date        : 2026-05-15
+Option      : B — domaines autorisés- BeVigil: bevigil.com - App: com.cerdillac.filmmaker v3.4.3 - Wordlist:50, Domains:48, Emails:8
+APK utilisé: diva-beta.apk (Damn Insecure Vulnerable App - usage pédagogique)

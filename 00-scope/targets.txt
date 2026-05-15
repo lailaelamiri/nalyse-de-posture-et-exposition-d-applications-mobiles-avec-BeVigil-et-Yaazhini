@@ -1,0 +1,3 @@
+﻿example.com
+api.example.com
+mobile.example.com

@@ -1,0 +1,11 @@
+﻿# Log des commandes - 2026-05-15 14:40:01
+Invoke-WebRequest DIVA APK
+Get-FileHash 00-scope\diva-beta.apk -Algorithm SHA256
+Get-FileHash 00-scope\diva-beta.apk -Algorithm SHA256 -> 5CEFC51FCE9BD760B92AB2340477F4DDA84B4AE0C5D04A8C9493E4FE34FAB7C5
+Created targets.txt with authorized domains
+Exported BeVigil results to 01-bevigil\bevigil_export.csv
+Created bevigil_notes.md template
+FINDING: Firebase URL detected - https://bff-test.firebaseio.com
+Tested Firebase URL - result: deactivated
+Yaazhini GUI used to scan application_pedagogique.apk
+Report saved to 02-yaazhini\
